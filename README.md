@@ -15,7 +15,7 @@ It can be used as a starting point to try things out by yourself.
 ## 📚 Resources
 
 - 🎞️ **Slides (PDF)** → [Download the slides](./Slides/SwiftCon2025-LiveActivities.pdf)
-- 📺 **Recording (upcoming)** → _will be added here when available_
+- 📺 **Recording** → [Watch here](https://www.youtube.com/watch?v=WZUZlD2fW68)
 - Apple - [WWDC23 Meet ActivityKit](https://developer.apple.com/videos/play/wwdc2023/10184/) - [ActivityKit documentation](https://developer.apple.com/documentation/ActivityKit)
 - Apple - [WWDC23 - Design dynamic live activities](https://developer.apple.com/videos/play/wwdc2023/10194/) - [Human interface guidelines](https://developer.apple.com/design/human-interface-guidelines/live-activities) _(really worth a read)_
 - Alice Milo - [Understanding Live Activities: visual micro-storytelling](https://www.createwithswift.com/understanding-live-activities-visual-micro-storytelling/)
